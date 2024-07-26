@@ -1,1 +1,5 @@
-Hello World!
+<b><size=40><color=#FF0000>¡Atención!</color></size></b>
+
+<i><size=30>Se informa a todos los empleados que la reunión semanal se llevará a cabo el viernes a las 10:00 AM en la sala de conferencias.</size></i>
+
+<size=25><color=#0000FF>- La Dirección</color></size>
