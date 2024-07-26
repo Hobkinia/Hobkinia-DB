@@ -1,1 +1,26 @@
-OWO
+<b><size=40><color=#FF0000>¡Agradecimientos Especiales!</color></size></b>
+
+<i><size=30>Creadores del Mapa:</size></i>
+<size=25>
+<color=#00FF00>- Juan Pérez</color>
+<color=#00FF00>- María López</color>
+<color=#00FF00>- Carlos Sánchez</color>
+<color=#00FF00>- Ana Martínez</color>
+<color=#00FF00>- José Gómez</color>
+</size>
+
+<i><size=30>Patreons:</size></i>
+<size=25>
+<color=#FFD700>- Alejandro Torres</color>
+<color=#FFD700>- Laura Fernández</color>
+<color=#FFD700>- Miguel Rodríguez</color>
+<color=#FFD700>- Patricia González</color>
+<color=#FFD700>- Diego Ramírez</color>
+<color=#FFD700>- Sandra Díaz</color>
+<color=#FFD700>- Andrés Jiménez</color>
+<color=#FFD700>- Marta Moreno</color>
+<color=#FFD700>- Javier Navarro</color>
+<color=#FFD700>- Cristina Romero</color>
+</size>
+
+<size=25><color=#0000FF>- El Equipo de Desarrollo</color></size>
