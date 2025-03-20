@@ -2,7 +2,7 @@
     "DeckName": "Verdad o Reto - Base",
     "DeckBy": "Hobkinia - Corbí",
     
-    "Verdades": [
+    "Truths": [
         "¿Por qué elegiste el avatar que llevas?",
         "Nombra <range[1-3]> personas que te caigan bien de esta comunidad.",
 		"Nombra <range[1-3]> personas que te caigan mal de esta comunidad.",
@@ -61,7 +61,7 @@
 		"¿Cuál es el peor apodo que has recibido en VRChat?"
     ],
     
-    "Retos": [
+    "Dares": [
         "Toma una foto grupal y mándasela por Discord/Telegram a alguien.",
         "Cambia tu estado de VRChat a algo relacionado con Hobkinia por 1 hora.",
         "Ponte un avatar de tu lista de avatares recientes e imita como hablaría.",
